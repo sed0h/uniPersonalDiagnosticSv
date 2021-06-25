@@ -1,0 +1,6 @@
+output
+Debug
+x64
+*.suo
+*.db
+*.ipch
